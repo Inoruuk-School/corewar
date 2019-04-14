@@ -470,3 +470,5 @@ probablement assez rapidement votre champion en tas informe de boyaux virtuels,
 mais qui pourrait bien, au prix d’une ou deux cérémonies vaudou impliquant des
 épingles à nourrice et un endroit que l’honnêteté et la décence m’interdisent
 de préciser davantage, vous couvrir de gloire et de chatons.
+
+Crédit pour ce readme a Cepalle : https://github.com/cepalle/corewar#corewar
